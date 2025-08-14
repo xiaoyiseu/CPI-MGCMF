@@ -1,0 +1,135 @@
+2025-08-02 08:49:27,925 - Epoch:001, train loss:0.7766, val loss:0.6393, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.12, val_dep_acc:88.29, time:26.52 s
+2025-08-02 08:49:53,613 - Epoch:002, train loss:0.6280, val loss:0.6401, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.15, val_dep_acc:88.16, time:25.69 s
+2025-08-02 08:50:19,603 - Epoch:003, train loss:0.6083, val loss:0.6249, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.33, val_dep_acc:88.36, time:25.99 s
+2025-08-02 08:50:45,709 - Epoch:004, train loss:0.5939, val loss:0.6296, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.01, val_dep_acc:88.40, time:26.11 s
+2025-08-02 08:51:11,534 - Epoch:005, train loss:0.5829, val loss:0.6483, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.67, val_dep_acc:88.17, time:25.83 s
+2025-08-02 08:51:37,387 - Epoch:006, train loss:0.5755, val loss:0.6434, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.65, val_dep_acc:88.05, time:25.85 s
+2025-08-02 08:52:03,212 - Epoch:007, train loss:0.5662, val loss:0.6290, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.32, val_dep_acc:88.21, time:25.82 s
+2025-08-02 08:52:29,124 - Epoch:008, train loss:0.5605, val loss:0.6222, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.15, val_dep_acc:88.44, time:25.91 s
+2025-08-02 08:52:55,040 - Epoch:009, train loss:0.5550, val loss:0.6217, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.28, val_dep_acc:89.01, time:25.92 s
+2025-08-02 08:53:20,788 - Epoch:010, train loss:0.5470, val loss:0.6176, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.47, val_dep_acc:88.92, time:25.75 s
+2025-08-02 08:53:46,462 - Epoch:011, train loss:0.5427, val loss:0.6318, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.11, val_dep_acc:88.51, time:25.67 s
+2025-08-02 08:54:12,170 - Epoch:012, train loss:0.5368, val loss:0.6343, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.90, val_dep_acc:88.78, time:25.71 s
+2025-08-02 08:54:38,021 - Epoch:013, train loss:0.5335, val loss:0.6234, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.08, val_dep_acc:89.11, time:25.85 s
+2025-08-02 08:55:03,738 - Epoch:014, train loss:0.5284, val loss:0.6302, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.07, val_dep_acc:88.71, time:25.72 s
+2025-08-02 08:55:29,478 - Epoch:015, train loss:0.5241, val loss:0.6307, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.05, val_dep_acc:88.97, time:25.74 s
+2025-08-02 08:55:55,153 - Epoch:016, train loss:0.5185, val loss:0.6328, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.30, val_dep_acc:88.97, time:25.68 s
+2025-08-02 08:56:20,870 - Epoch:017, train loss:0.5152, val loss:0.6405, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.96, val_dep_acc:88.68, time:25.72 s
+2025-08-02 08:56:46,557 - Epoch:018, train loss:0.5113, val loss:0.6522, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.02, val_dep_acc:88.86, time:25.69 s
+2025-08-02 08:57:12,192 - Epoch:019, train loss:0.5088, val loss:0.6413, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.03, val_dep_acc:88.53, time:25.63 s
+2025-08-02 08:57:37,843 - Epoch:020, train loss:0.5047, val loss:0.6637, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.98, val_dep_acc:88.68, time:25.65 s
+2025-08-02 08:58:03,510 - Epoch:021, train loss:0.5021, val loss:0.6619, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.38, val_dep_acc:88.70, time:25.67 s
+2025-08-02 08:58:29,210 - Epoch:022, train loss:0.4983, val loss:0.6644, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.74, val_dep_acc:88.77, time:25.70 s
+2025-08-02 08:58:54,914 - Training Finished! Early stopping at epoch 23
+2025-08-02 08:58:54,915 - Best model found at epoch 13. 
+Train Loss: 0.5335, Val Loss: 0.6234, Val Severity Acc: 0.8308, Val Depart Acc: 0.8911, Combined Score: 0.9199
+2025-08-02 09:01:16,376 - Epoch:001, train loss:0.7627, val loss:0.6714, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.45, val_dep_acc:87.54, time:25.75 s
+2025-08-02 09:01:42,083 - Epoch:002, train loss:0.6227, val loss:0.6653, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:81.55, val_dep_acc:88.23, time:25.71 s
+2025-08-02 09:02:07,829 - Epoch:003, train loss:0.6034, val loss:0.6506, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.51, val_dep_acc:87.89, time:25.75 s
+2025-08-02 09:02:33,769 - Epoch:004, train loss:0.5895, val loss:0.6301, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.51, val_dep_acc:88.48, time:25.94 s
+2025-08-02 09:02:59,602 - Epoch:005, train loss:0.5792, val loss:0.6414, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.84, val_dep_acc:88.10, time:25.83 s
+2025-08-02 09:03:25,556 - Epoch:006, train loss:0.5732, val loss:0.6300, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.98, val_dep_acc:88.62, time:25.95 s
+2025-08-02 09:03:51,515 - Epoch:007, train loss:0.5648, val loss:0.6371, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.47, val_dep_acc:88.77, time:25.96 s
+2025-08-02 09:04:17,428 - Epoch:008, train loss:0.5567, val loss:0.6337, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.77, val_dep_acc:88.78, time:25.91 s
+2025-08-02 09:04:43,263 - Epoch:009, train loss:0.5512, val loss:0.6357, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.98, val_dep_acc:88.56, time:25.83 s
+2025-08-02 09:05:09,051 - Epoch:010, train loss:0.5448, val loss:0.6532, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:81.91, val_dep_acc:88.45, time:25.79 s
+2025-08-02 09:05:34,840 - Epoch:011, train loss:0.5388, val loss:0.6466, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.83, val_dep_acc:88.73, time:25.79 s
+2025-08-02 09:06:00,565 - Epoch:012, train loss:0.5359, val loss:0.6451, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.92, val_dep_acc:88.63, time:25.72 s
+2025-08-02 09:06:26,314 - Epoch:013, train loss:0.5292, val loss:0.6584, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.13, val_dep_acc:88.27, time:25.75 s
+2025-08-02 09:06:52,107 - Epoch:014, train loss:0.5257, val loss:0.6454, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.96, val_dep_acc:88.67, time:25.79 s
+2025-08-02 09:07:17,860 - Epoch:015, train loss:0.5206, val loss:0.6535, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.87, val_dep_acc:88.50, time:25.75 s
+2025-08-02 09:07:43,564 - Epoch:016, train loss:0.5158, val loss:0.6780, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.30, val_dep_acc:88.45, time:25.70 s
+2025-08-02 09:08:09,294 - Epoch:017, train loss:0.5119, val loss:0.6679, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.91, val_dep_acc:88.52, time:25.73 s
+2025-08-02 09:08:35,018 - Training Finished! Early stopping at epoch 18
+2025-08-02 09:08:35,019 - Best model found at epoch 8. 
+Train Loss: 0.5567, Val Loss: 0.6337, Val Severity Acc: 0.8277, Val Depart Acc: 0.8878, Combined Score: 0.9164
+2025-08-02 09:10:55,083 - Epoch:001, train loss:0.7659, val loss:0.6752, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.41, val_dep_acc:87.33, time:25.72 s
+2025-08-02 09:11:20,807 - Epoch:002, train loss:0.6267, val loss:0.6429, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.96, val_dep_acc:88.08, time:25.72 s
+2025-08-02 09:11:46,729 - Epoch:003, train loss:0.6026, val loss:0.6361, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.03, val_dep_acc:88.29, time:25.92 s
+2025-08-02 09:12:12,766 - Epoch:004, train loss:0.5899, val loss:0.6342, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.13, val_dep_acc:88.30, time:26.04 s
+2025-08-02 09:12:38,647 - Epoch:005, train loss:0.5791, val loss:0.6548, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.14, val_dep_acc:87.56, time:25.88 s
+2025-08-02 09:13:04,513 - Epoch:006, train loss:0.5708, val loss:0.6353, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.08, val_dep_acc:88.15, time:25.87 s
+2025-08-02 09:13:30,522 - Epoch:007, train loss:0.5624, val loss:0.6322, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.25, val_dep_acc:88.31, time:26.01 s
+2025-08-02 09:13:56,383 - Epoch:008, train loss:0.5562, val loss:0.6469, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.03, val_dep_acc:88.29, time:25.86 s
+2025-08-02 09:14:22,345 - Epoch:009, train loss:0.5497, val loss:0.6366, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.07, val_dep_acc:88.32, time:25.96 s
+2025-08-02 09:14:48,272 - Epoch:010, train loss:0.5448, val loss:0.6536, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.12, val_dep_acc:88.57, time:25.93 s
+2025-08-02 09:15:14,109 - Epoch:011, train loss:0.5384, val loss:0.6525, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.78, val_dep_acc:88.19, time:25.84 s
+2025-08-02 09:15:39,873 - Epoch:012, train loss:0.5328, val loss:0.6506, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.14, val_dep_acc:88.51, time:25.76 s
+2025-08-02 09:16:05,644 - Epoch:013, train loss:0.5288, val loss:0.6944, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.21, val_dep_acc:87.59, time:25.77 s
+2025-08-02 09:16:31,401 - Epoch:014, train loss:0.5257, val loss:0.6433, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.21, val_dep_acc:88.33, time:25.76 s
+2025-08-02 09:16:57,119 - Epoch:015, train loss:0.5206, val loss:0.6536, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.72, val_dep_acc:88.55, time:25.72 s
+2025-08-02 09:17:22,837 - Epoch:016, train loss:0.5153, val loss:0.6514, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.14, val_dep_acc:88.55, time:25.72 s
+2025-08-02 09:17:48,592 - Epoch:017, train loss:0.5117, val loss:0.6546, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.08, val_dep_acc:88.42, time:25.75 s
+2025-08-02 09:18:14,341 - Epoch:018, train loss:0.5077, val loss:0.6666, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.96, val_dep_acc:88.39, time:25.75 s
+2025-08-02 09:18:40,182 - Epoch:019, train loss:0.5046, val loss:0.6910, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.15, val_dep_acc:88.58, time:25.84 s
+2025-08-02 09:19:05,881 - Epoch:020, train loss:0.5006, val loss:0.6714, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.92, val_dep_acc:88.47, time:25.70 s
+2025-08-02 09:19:31,634 - Epoch:021, train loss:0.5013, val loss:0.6828, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.74, val_dep_acc:88.43, time:25.75 s
+2025-08-02 09:19:57,493 - Epoch:022, train loss:0.4968, val loss:0.6824, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.39, val_dep_acc:88.62, time:25.86 s
+2025-08-02 09:20:23,334 - Epoch:023, train loss:0.4905, val loss:0.6815, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.78, val_dep_acc:88.65, time:25.84 s
+2025-08-02 09:20:49,221 - Epoch:024, train loss:0.4873, val loss:0.6949, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.02, val_dep_acc:88.68, time:25.89 s
+2025-08-02 09:21:14,954 - Epoch:025, train loss:0.4838, val loss:0.6969, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.81, val_dep_acc:88.50, time:25.73 s
+2025-08-02 09:21:40,712 - Epoch:026, train loss:0.4800, val loss:0.6942, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.32, val_dep_acc:88.17, time:25.76 s
+2025-08-02 09:22:06,444 - Epoch:027, train loss:0.4770, val loss:0.6964, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.67, val_dep_acc:88.36, time:25.73 s
+2025-08-02 09:22:32,204 - Epoch:028, train loss:0.4756, val loss:0.7155, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.32, val_dep_acc:88.31, time:25.76 s
+2025-08-02 09:22:57,943 - Epoch:029, train loss:0.4713, val loss:0.7261, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.37, val_dep_acc:87.92, time:25.74 s
+2025-08-02 09:23:23,708 - Epoch:030, train loss:0.4662, val loss:0.7179, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.89, val_dep_acc:88.17, time:25.76 s
+2025-08-02 09:23:49,521 - Epoch:031, train loss:0.4601, val loss:0.7385, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.48, val_dep_acc:88.39, time:25.81 s
+2025-08-02 09:24:15,302 - Epoch:032, train loss:0.4579, val loss:0.7325, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.00, val_dep_acc:88.42, time:25.78 s
+2025-08-02 09:24:41,043 - Epoch:033, train loss:0.4533, val loss:0.7400, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.40, val_dep_acc:88.53, time:25.74 s
+2025-08-02 09:25:06,793 - Training Finished! Early stopping at epoch 34
+2025-08-02 09:25:06,793 - Best model found at epoch 24. 
+Train Loss: 0.4873, Val Loss: 0.6949, Val Severity Acc: 0.8302, Val Depart Acc: 0.8868, Combined Score: 0.9189
+2025-08-02 09:27:27,567 - Epoch:001, train loss:0.7728, val loss:0.6583, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.71, val_dep_acc:88.05, time:25.65 s
+2025-08-02 09:27:53,257 - Epoch:002, train loss:0.6255, val loss:0.6574, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.88, val_dep_acc:87.86, time:25.69 s
+2025-08-02 09:28:19,202 - Epoch:003, train loss:0.6040, val loss:0.6330, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.38, val_dep_acc:88.44, time:25.94 s
+2025-08-02 09:28:45,099 - Epoch:004, train loss:0.5903, val loss:0.6324, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.36, val_dep_acc:88.07, time:25.90 s
+2025-08-02 09:29:11,150 - Epoch:005, train loss:0.5807, val loss:0.6277, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.71, val_dep_acc:88.70, time:26.05 s
+2025-08-02 09:29:37,070 - Epoch:006, train loss:0.5722, val loss:0.6338, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.76, val_dep_acc:88.58, time:25.92 s
+2025-08-02 09:30:02,986 - Epoch:007, train loss:0.5643, val loss:0.6687, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.12, val_dep_acc:87.78, time:25.92 s
+2025-08-02 09:30:28,928 - Epoch:008, train loss:0.5589, val loss:0.6362, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.37, val_dep_acc:88.47, time:25.94 s
+2025-08-02 09:30:54,798 - Epoch:009, train loss:0.5524, val loss:0.6512, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.31, val_dep_acc:88.42, time:25.87 s
+2025-08-02 09:31:20,717 - Epoch:010, train loss:0.5448, val loss:0.6359, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.40, val_dep_acc:88.82, time:25.92 s
+2025-08-02 09:31:46,523 - Epoch:011, train loss:0.5420, val loss:0.6435, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.34, val_dep_acc:88.40, time:25.80 s
+2025-08-02 09:32:12,335 - Epoch:012, train loss:0.5369, val loss:0.6395, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.33, val_dep_acc:88.67, time:25.81 s
+2025-08-02 09:32:38,134 - Epoch:013, train loss:0.5328, val loss:0.6666, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:81.37, val_dep_acc:88.48, time:25.80 s
+2025-08-02 09:33:03,976 - Epoch:014, train loss:0.5267, val loss:0.6549, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.32, val_dep_acc:88.77, time:25.84 s
+2025-08-02 09:33:29,829 - Epoch:015, train loss:0.5230, val loss:0.6508, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.31, val_dep_acc:88.69, time:25.85 s
+2025-08-02 09:33:55,656 - Epoch:016, train loss:0.5186, val loss:0.6758, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.59, val_dep_acc:88.24, time:25.83 s
+2025-08-02 09:34:21,444 - Epoch:017, train loss:0.5163, val loss:0.6593, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.24, val_dep_acc:88.61, time:25.79 s
+2025-08-02 09:34:47,355 - Epoch:018, train loss:0.5127, val loss:0.6571, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.12, val_dep_acc:88.92, time:25.91 s
+2025-08-02 09:35:13,167 - Epoch:019, train loss:0.5113, val loss:0.6688, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.65, val_dep_acc:88.77, time:25.81 s
+2025-08-02 09:35:38,923 - Epoch:020, train loss:0.5054, val loss:0.6890, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.89, val_dep_acc:88.19, time:25.75 s
+2025-08-02 09:36:04,736 - Epoch:021, train loss:0.5011, val loss:0.6741, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.76, val_dep_acc:88.44, time:25.81 s
+2025-08-02 09:36:30,563 - Epoch:022, train loss:0.4973, val loss:0.6813, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.10, val_dep_acc:88.89, time:25.83 s
+2025-08-02 09:36:56,330 - Epoch:023, train loss:0.4942, val loss:0.6950, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.64, val_dep_acc:88.57, time:25.77 s
+2025-08-02 09:37:22,112 - Epoch:024, train loss:0.4896, val loss:0.6910, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.69, val_dep_acc:88.81, time:25.78 s
+2025-08-02 09:37:47,905 - Epoch:025, train loss:0.4875, val loss:0.7129, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.30, val_dep_acc:88.33, time:25.79 s
+2025-08-02 09:38:13,682 - Epoch:026, train loss:0.4848, val loss:0.6851, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.92, val_dep_acc:88.67, time:25.78 s
+2025-08-02 09:38:39,459 - Epoch:027, train loss:0.4815, val loss:0.7074, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.78, val_dep_acc:88.68, time:25.78 s
+2025-08-02 09:39:05,251 - Training Finished! Early stopping at epoch 28
+2025-08-02 09:39:05,251 - Best model found at epoch 18. 
+Train Loss: 0.5127, Val Loss: 0.6571, Val Severity Acc: 0.8312, Val Depart Acc: 0.8892, Combined Score: 0.9201
+2025-08-02 09:41:25,721 - Epoch:001, train loss:0.7862, val loss:0.6637, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.51, val_dep_acc:87.95, time:25.68 s
+2025-08-02 09:41:51,386 - Epoch:002, train loss:0.6256, val loss:0.6510, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.62, val_dep_acc:87.78, time:25.67 s
+2025-08-02 09:42:17,316 - Epoch:003, train loss:0.6025, val loss:0.6391, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.01, val_dep_acc:88.21, time:25.93 s
+2025-08-02 09:42:43,205 - Epoch:004, train loss:0.5912, val loss:0.6413, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.25, val_dep_acc:87.93, time:25.89 s
+2025-08-02 09:43:09,241 - Epoch:005, train loss:0.5802, val loss:0.6323, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.00, val_dep_acc:88.22, time:26.04 s
+2025-08-02 09:43:35,270 - Epoch:006, train loss:0.5719, val loss:0.6362, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.03, val_dep_acc:88.46, time:26.03 s
+2025-08-02 09:44:01,184 - Epoch:007, train loss:0.5640, val loss:0.6496, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.54, val_dep_acc:88.08, time:25.91 s
+2025-08-02 09:44:27,054 - Epoch:008, train loss:0.5557, val loss:0.6352, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.15, val_dep_acc:88.23, time:25.87 s
+2025-08-02 09:44:52,916 - Epoch:009, train loss:0.5492, val loss:0.6328, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.15, val_dep_acc:88.33, time:25.86 s
+2025-08-02 09:45:18,736 - Epoch:010, train loss:0.5454, val loss:0.6410, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.16, val_dep_acc:88.27, time:25.82 s
+2025-08-02 09:45:44,595 - Epoch:011, train loss:0.5392, val loss:0.6458, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.76, val_dep_acc:88.19, time:25.86 s
+2025-08-02 09:46:10,563 - Epoch:012, train loss:0.5343, val loss:0.6351, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.95, val_dep_acc:88.78, time:25.97 s
+2025-08-02 09:46:36,376 - Epoch:013, train loss:0.5301, val loss:0.6425, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.13, val_dep_acc:88.02, time:25.81 s
+2025-08-02 09:47:02,196 - Epoch:014, train loss:0.5262, val loss:0.6526, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.06, val_dep_acc:88.09, time:25.82 s
+2025-08-02 09:47:28,008 - Epoch:015, train loss:0.5209, val loss:0.6512, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.74, val_dep_acc:88.35, time:25.81 s
+2025-08-02 09:47:53,825 - Epoch:016, train loss:0.5181, val loss:0.6552, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.98, val_dep_acc:88.26, time:25.82 s
+2025-08-02 09:48:19,644 - Epoch:017, train loss:0.5112, val loss:0.6529, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:83.12, val_dep_acc:88.42, time:25.82 s
+2025-08-02 09:48:45,393 - Epoch:018, train loss:0.5098, val loss:0.6626, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.87, val_dep_acc:88.27, time:25.75 s
+2025-08-02 09:49:11,209 - Epoch:019, train loss:0.5061, val loss:0.7000, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.12, val_dep_acc:88.21, time:25.82 s
+2025-08-02 09:49:36,998 - Epoch:020, train loss:0.5043, val loss:0.6607, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.87, val_dep_acc:88.44, time:25.79 s
+2025-08-02 09:50:02,823 - Epoch:021, train loss:0.4995, val loss:0.6746, seu_loss1:0.0000, seu_loss2:0.0000, val_sev_acc:82.84, val_dep_acc:88.36, time:25.83 s
+2025-08-02 09:50:28,634 - Training Finished! Early stopping at epoch 22
+2025-08-02 09:50:28,634 - Best model found at epoch 12. 
+Train Loss: 0.5343, Val Loss: 0.6351, Val Severity Acc: 0.8295, Val Depart Acc: 0.8878, Combined Score: 0.9183
