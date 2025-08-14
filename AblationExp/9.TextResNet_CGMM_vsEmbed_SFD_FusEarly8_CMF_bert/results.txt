@@ -1,0 +1,3 @@
+metric	accuracy	sensitivity	specificity	precision	f1-score	kappa
+Sevty	84.37[84.01,84.73]	84.37	90.66	84.59/64.03	84.26/49.66	0.601
+Depat	90.33[90.13,90.52]	90.33	98.59	90.63/65.14	90.22/61.13	0.851
