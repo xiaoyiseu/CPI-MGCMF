@@ -1,6 +1,6 @@
 ## Usage
 ### Requirements
-we use a single NVIDIA RTX 2080Ti  11G GPU for training and evaluation. 
+All experiments were conducted on a NVIDIA A6000 GPU. The initial learning rate was set to 0.001, and AdamW was used as the optimizer. 
 
 ```
 python 3.8.19
