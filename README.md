@@ -1,6 +1,6 @@
 ## Usage
 ### Requirements
-All experiments were conducted on a NVIDIA A6000 GPU. The initial learning rate was set to 0.001, and AdamW was used as the optimizer. 
+we use a single NVIDIA A6000 GPU for training and evaluation.  
 
 ```
 python 3.8.19
