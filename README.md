@@ -9,7 +9,7 @@ torchvision 0.18.0
 numpy 1.22.1
 pandas 2.0.3
 pillow 10.3.0
-Pkuseg 0.0.25
+pkuseg 0.0.25
 BERT ‘bert-base-chinese’ (HuggingFace)
 ```
 
