@@ -39,7 +39,8 @@ BERT ‘bert-base-chinese’ (HuggingFace)
 python train.py
 python test.py
 ```
-4.2 Machine learning models 
+4.2 Machine learning models   
+
 train & test
 ```
 python SingleTask(ML).py
