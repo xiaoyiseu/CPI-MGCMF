@@ -8,9 +8,11 @@ Accurate and timely triage in emergency departments (ED) requires decision suppo
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d3eda3fd-6fd7-4a8c-b2bf-275e464dbf3d" />
 
 ### 1.Raw Data and Tasks  
-Triage Data: vital signs (e.g., temperature, pulse rate, respiratory rate, blood pressure, oxygen saturation), demographic details (e.g., sex, age), and mode of arrival.
+1.1 Triage Data     
+chief complants, vital signs (e.g., temperature, pulse rate, respiratory rate, blood pressure, oxygen saturation), demographic details (e.g., sex, age), and mode of arrival.
 
-Task 1-Severity Level Prediction：Level 4 (least critical) to Level 1 (most critical)   
+1.2 Tasks    
+Task 1-Severity Level Prediction：Level 4 (least critical) to Level 1 (most critical)       
 Task 2-Department Recommendation: Surgery, Internal Medicine, Neurology, Otolaryngology (ENT), Obstetrics, Ophthalmology, Gynecology, Orthopedics, Trauma Center, and Neurosurgery.   
 
 Per-class sample counts and percentages for severity levels and for the departments      
@@ -47,9 +49,10 @@ python SingleTask(ML).py
 ```
 
 ### 5.Metrics & Results
-Metrics: Accuracy (95% CI), Sensitivity (SENS), Specificity (SPEC), Precision (PREC), F1-score (F1), and Cohen’s Kappa coefficient (K)
+5.1 Metrics     
+Accuracy (95% CI), Sensitivity (SENS), Specificity (SPEC), Precision (PREC), F1-score (F1), and Cohen’s Kappa coefficient (K)
 
-Ablation experiments
+5.2 Ablation experiments      
 The folder 'AblayExp' contains training/validation/testing logs.
 <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/9b2becbc-e725-47be-9203-bb40f3a279fb" />
 
