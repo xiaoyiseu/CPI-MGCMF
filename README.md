@@ -1,4 +1,4 @@
-# Toward Knowledge-Guided Emergency Triage
+# Conditional Probability Imputation and Cross-Modal Fusion under Incomplete and Heterogeneous Data
 Accurate and timely triage in emergency departments (ED) requires decision support that is robust to incomplete and heterogeneous data. This study proposes a knowledge-guided triage framework that addresses two critical challenges:   
 
 (i) handling missing structured features (e.g., vital signs, age, and mode of arrival) through an uncertainty-aware Conditional-Probability Imputation (CPI) scheme. 
