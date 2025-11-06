@@ -37,14 +37,14 @@ BERT ‘bert-base-chinese’ (HuggingFace)
 ```
 
 ### 4.Training & Testing
-4.1 Complete configuration (+CPI+BB+EF+LF)
+4.1 Experiments (Ablation & Comparison)
 ```
 python train.py
 python test.py
 ```
 4.2 Machine learning models   
 
-train & test
+Train & Test
 ```
 python SingleTask(ML).py
 ```
