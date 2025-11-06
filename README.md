@@ -20,6 +20,7 @@ Per-class sample counts and percentages for severity levels and for the departme
 
 ### 2.Correlation analysis
 Correlation analysis between structured data variables and labels (Severity and Department) using the Mantel test
+
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4e4f879a-20c7-4040-a9ca-c35609cb1565" />
 
 ### 3.Requirements
